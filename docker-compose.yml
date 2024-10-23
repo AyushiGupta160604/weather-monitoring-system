@@ -1,0 +1,8 @@
+version: '3'
+services:
+  weather_monitor:
+    build: .
+    container_name: weather_monitor
+    volumes:
+      - ./weather_data:/app/weather_data
+    restart: always
