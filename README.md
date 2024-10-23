@@ -44,7 +44,13 @@ The system is structured into the following components:
 5. **Visualizations**: Plotly is used to visualize the weather data.
 
 ## Project Preview
+### Monitoring and Visualization of data
+![Start monitoring the weather](https://github.com/AyushiGupta160604/weather-monitoring-system/blob/main/start_monitoring.png)
+![Monitor](https://github.com/AyushiGupta160604/weather-monitoring-system/blob/main/manage.png)
 
+### Visualization of weather of a place
+![visual](https://github.com/AyushiGupta160604/weather-monitoring-system/blob/main/visualization.png)
+![plot](https://github.com/AyushiGupta160604/weather-monitoring-system/blob/main/visualizations_table.png)
 
 ## Installation
 ### Prerequisites
